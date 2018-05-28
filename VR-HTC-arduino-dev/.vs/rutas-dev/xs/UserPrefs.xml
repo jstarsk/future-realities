@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{35A8C539-B17A-A678-38A0-456794779EEE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/OpeningManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/OpeningManager.cs" Line="7" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.rutas-dev PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

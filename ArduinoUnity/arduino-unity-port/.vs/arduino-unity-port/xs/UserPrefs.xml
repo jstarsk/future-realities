@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{66045DFA-AE6E-8C01-81B9-B4B0C227EB61}|">
+  <MonoDevelop.Ide.ItemProperties.arduino-unity-port PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ArduinoCommunication.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ArduinoCommunication.cs" Line="43" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

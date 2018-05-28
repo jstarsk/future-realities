@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "34970600625-25c1vqqgv0tbkk5fg26o6dfble98l18k.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtiBSlVItJ80qJ2WvmE_QVEeiDZcfFU9k"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:34970600625:ios:713b2057539e3acd", 
+        "android_client_info": {
+          "package_name": "com.Noumena.ARFutureRealities"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "ar-futurerealities-dev.appspot.com", 
+    "project_id": "ar-futurerealities-dev", 
+    "firebase_url": "https://ar-futurerealities-dev.firebaseio.com", 
+    "project_number": "34970600625"
+  }
+}
